@@ -1,5 +1,5 @@
 # File upload vulnerabilities
-
+ 
 File upload vulnerabilities refer to security issues associated with the functionality that allows users to upload files to a web application. While file uploads are a common feature in many web applications, they can become a significant security risk if not implemented and configured properly. Attackers may exploit these vulnerabilities to perform various high-severity attacks, including the upload of malicious files such as web shells, which can lead to unauthorized control of a web server.
 
 Here's an explanation of the key concepts related to file upload vulnerabilities:
