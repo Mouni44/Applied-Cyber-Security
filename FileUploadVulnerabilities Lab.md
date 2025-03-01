@@ -6,7 +6,7 @@ Here's an explanation:
 
 1. Content Verification for Security:
 - Secure servers go beyond trusting the Content-Type header and attempt to verify intrinsic properties of the file to ensure it matches the expected type.
-2. Example: Image Upload Function:
+2. Example: Image Upload Function: 
 - In the case of an image upload function, the server may check certain intrinsic properties of an image, such as its dimensions.
 - For example, uploading a PHP script won't provide any image dimensions, allowing the server to deduce that it cannot be an image and reject the upload.
 3. File Type Verification with Signatures:
