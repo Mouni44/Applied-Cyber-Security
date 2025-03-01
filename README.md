@@ -20,6 +20,26 @@ Applied cybersecurity ensures that organizations implement effective security po
  - Penetration Testing & Ethical Hacking – Identifying system vulnerabilities by simulating cyberattacks.     <br/>
  - Threat Intelligence – Gathering and analyzing threat data to predict and mitigate potential attacks.     <br/>
  - Security Automation – Utilizing automated tools for continuous security monitoring and threat response.     <br/>
+ - Common Threats:     <br/>
+     - Malware (viruses, worms, ransomware)     <br/>
+		   - Phishing (deceptive attempts for sensitive info)     <br/>
+		   - Social Engineering (manipulating individuals for confidential data)     <br/>
+  - Security Measures:     <br/>
+     - Firewalls (network security barriers)     <br/>
+			  - Antivirus Software (detects and removes malicious software)     <br/>
+			  - Encryption (protects data by converting it into secure code)     <br/>
+ - Cyber Hygiene:  Best practices for users, including regular updates, strong passwords, and cautious email behavior.     <br/>
+ - Roles in Cybersecurity:     <br/>
+     - Ethical Hackers/Penetration Testers (identify vulnerabilities)     <br/>
+			  - Security Analysts (monitor and analyze security data)     <br/>
+			  - Incident Responders (handle and mitigate security incidents)     <br/>
+ - Cybersecurity Frameworks:     <br/>
+     - NIST Cybersecurity Framework (guidelines for managing cybersecurity)     <br/>
+  			-	ISO/IEC 27001 (international standard for information security management)     <br/>
+ - Current Trends:     <br/>
+     - Artificial Intelligence in Cybersecurity (enhancing threat detection and response)     <br/>
+		   - Zero Trust Model (verifying everyone and everything connecting to network resources)     <br/>
+       
 #### Real-World Applications
  - Finance & Banking: Ensuring secure transactions and preventing fraud.     <br/>
  - Healthcare: Safeguarding patient records and ensuring regulatory compliance.     <br/>
